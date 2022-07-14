@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Under_three {
+public class UnderThree {
 
 	public static void main(String[] args) {
 	

@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Phone_provider {
+public class PhoneProvider {
 
 	public static void main(String[] args) {
 

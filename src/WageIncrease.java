@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Wage_increase {
+public class WageIncrease {
 
 	public static void main(String[] args) {
 

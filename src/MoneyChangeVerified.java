@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Money_change_verified {
+public class MoneyChangeVerified {
 
 	public static void main(String[] args) {
 		
